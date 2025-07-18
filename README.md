@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Freya 👋
+- 🎓 CS Major and IT Minor at West Chester University
+- Professional hater of Discord changes
 
 <!--
 **LancersBucket/LancersBucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
