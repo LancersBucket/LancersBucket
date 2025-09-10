@@ -1,6 +1,8 @@
 ## Hi there, I'm Freya 👋
 - 🎓 CS Major and IT Minor at West Chester University
-- Professional hater of Discord changes
+- 🌱 I'm learning Haskell, Java, Prolog, and SQL
+- ⚡ Professional hater of Discord changes
+- 🏳️‍⚧️ she/her
 
 <!--
 **LancersBucket/LancersBucket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
