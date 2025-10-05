@@ -1,5 +1,5 @@
 ## Hi there, I'm Freya 👋
-- 🎓 CS Major and IT Minor at West Chester University
+- 🎓 CS Major and Applied Statistics Minor at West Chester University
 - 🌱 I'm learning Haskell, Java, Prolog, and SQL
 - ⚡ Professional hater of Discord changes
 - 🏳️‍⚧️ she/her
