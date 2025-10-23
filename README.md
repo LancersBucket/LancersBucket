@@ -5,13 +5,10 @@
 - 🏳️‍⚧️ she/her
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=LancersBucket&hide=stars&show_icons=true&theme=dark"/>
+  <img height=200 align=center src="https://github-readme-stats.vercel.app/api?username=LancersBucket&hide=stars&show_icons=true&theme=dark"/>
 </a>
-
-<br>
-
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LancersBucket&layout=compact&theme=dark&langs_count=6"/>
+  <img height=200 align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=LancersBucket&layout=compact&theme=dark&langs_count=6"/>
 </a>
 
 <!--
